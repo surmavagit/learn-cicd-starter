@@ -1,4 +1,4 @@
-![code coverage badge](https://github.com/surmavagit/learn-cicd-starter/workflows/Tests/badge.svg)
+![code coverage badge](https://github.com/surmavagit/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
